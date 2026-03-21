@@ -45,8 +45,3 @@ npm run dev       # Start the Next.js frontend locally
 #### 4. AI Service Setup
 Please refer to the `ai-service` directory for specific language and dependency setup instructions for the AI engine.
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-## 📄 License
-This project is open-source.
